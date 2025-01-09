@@ -69,10 +69,11 @@ Azure Databricks is used to convert raw data in bronze container to a structured
 
 ## Insights and Analytics
 The final step here was integrating the data with Power BI tool to visualize and generate insights. Here are the reports to present actionable insights to stakeholders. Below graph shows shows number of orders on different order dates.
-![Insights1](![image](https://github.com/user-attachments/assets/dfb2e38c-233e-46c2-8d65-1d44705f478e)
+ (![image](https://github.com/user-attachments/assets/dfb2e38c-233e-46c2-8d65-1d44705f478e)
 
 ## Summary of Project
 The project involved building a scalable data pipeline for processing and analyzing large datasets using Azure based tools. Azure Data Factory orchestrated data ingestion into Azure Data Lake Storage for centralized storage. Data transformation was performed using Azure Databricks, implementing ETL processes to clean, aggregate, and enrich data. Processed data was loaded into Azure Synapse Analytics for analytical querying and reporting. Power BI dashboards provided real-time business insights.
 
 Key aspects included optimizing data pipeline performance, ensuring data quality through validation checks, and implementing robust security measures. The solution supported data-driven decision-making by delivering accurate, timely, and actionable insights.
+
 
